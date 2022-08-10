@@ -6,4 +6,4 @@ with some basic Sphinx docs.
 
 Read the tutorial here:
 
-https://omnifiber-pega.readthedocs.io/en/latest/index.html#
+https://omnifiber-pega.readthedocs.io/en/latest/index.html
